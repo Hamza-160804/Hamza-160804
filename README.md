@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hamxa52
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning java,c
+- 🌱 I’m currently learning java,c,python,flutter
 - 💞️ I’m looking to collaborate on java
 - 📫 How to reach me ...
 
