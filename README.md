@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1DF713&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Rao+Muhammad+Hamza;I'm+MERN+Stack+Developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
-![](https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png)
 🌱 I’m currently learning <br>💬 Ask me about React.js MongoDB HTML CSS javaScript Java Python<br> How to reach me raohumza52@gmail.com
 
 
