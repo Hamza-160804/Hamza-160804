@@ -25,4 +25,4 @@
 
 ### Jokes:
 ![](https://camo.githubusercontent.com/edeecad9a00ff775f4262c1360481d4d905196e7b536ee3a24fe37cabde8f5d5/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f6170693f7468656d653d72616e646f6d)
-				© 2024 Creative Rao Muhammad Hamza, all rights reserved.
+				© 2024 Creative Rao Muhammad Hamza, All Rights Reserved.
