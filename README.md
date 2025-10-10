@@ -48,9 +48,15 @@ const raoHamza = {
   learning: ["Advanced React", "Backend APIs"],
   funFact: "Dark theme enthusiast 🌙"
 };
-</div> </td> </tr> </table> </div>
-<div align="center">
+</div> 
+</td>
+ </tr>
+ </table>
+ </div>
+ 
 🛠️ Tech Stack
+<div align="center">
+
 🎨 Frontend
 <table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br/><sub><b>React</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br/><sub><b>JavaScript</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><br/><sub><b>HTML5</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><br/><sub><b>CSS3</b></sub></td> <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/><br/><sub><b>Tailwind CSS</b></sub></td> </tr> </table>
 🧩 Backend & Database
