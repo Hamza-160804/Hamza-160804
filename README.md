@@ -26,7 +26,7 @@ Currently exploring **advanced frontend technologies** and **modern UI/UX** appr
 
 <table>
 <tr>
-<td width="50%">
+<td width="70%">
 
 - 🎯 Aiming to build impactful digital experiences through responsive, user-friendly interfaces
 - 💻 Skilled in **React.js, Tailwind CSS, and the MERN stack**
@@ -35,7 +35,7 @@ Currently exploring **advanced frontend technologies** and **modern UI/UX** appr
 - 📚 Passionate about clean code, performance, and accessibility
 
 </td>
-<td width="50%">
+<td width="30%">
 
 <div align="center">
 
@@ -60,17 +60,17 @@ const raoHamza = {
 
 <div align="center">
 
- ### 🛠️ ** Tech Stack**
+ ## 🛠️ ** Tech Stack**
 
-#### 🎨 ** Frontend**
+### 🎨 ** Frontend**
 
 <table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br/><sub><b>React</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br/><sub><b>JavaScript</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><br/><sub><b>HTML5</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><br/><sub><b>CSS3</b></sub></td> <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/><br/><sub><b>Tailwind CSS</b></sub></td> </tr> </table>
 
-#### 🧩 ** Backend & Database**
+### 🧩 ** Backend & Database**
 
 <table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br/><sub><b>Node.js</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/><br/><sub><b>Express.js</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br/><sub><b>MongoDB</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/><sub><b>Python</b></sub></td> </tr> </table>
 
-#### 🧠 ** Tools & Design**
+### 🧠 ** Tools & Design**
 
 <table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/><sub><b>Git</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br/><sub><b>GitHub</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><br/><sub><b>Figma</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-plain.svg" width="40" height="40"/><br/><sub><b>Illustrator</b></sub></td> <td align="center" width="120"><img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40" height="40"/><br/><sub><b>Canva</b></sub></td> 
 </tr>
@@ -84,37 +84,37 @@ const raoHamza = {
 
 <table> <tr> <td width="33%" align="center">
 
-## ⚡** Interactive UI**
+### ⚡** Interactive UI**
 
 Crafting responsive, animated interfaces with React & Tailwind CSS
 
 </td> <td width="33%" align="center">
 
-## 🔌 **Full-Stack Integration**
+### 🔌 **Full-Stack Integration**
 
 Building RESTful APIs and connecting frontend ↔ backend seamlessly
 
 </td> <td width="33%" align="center">
 
-## 🎨 ** Modern Design**
+### 🎨 ** Modern Design**
 
 Translating wireframes into elegant, functional layouts
 
 </td> </tr> <tr> <td width="33%" align="center">
 
-## 📱 ** Responsive Design**
+### 📱 ** Responsive Design**
 
 Ensuring smooth experience on all devices
 
 </td> <td width="33%" align="center">
 
-## 🧩 ** Optimization**
+### 🧩 ** Optimization**
 
 Improving performance & accessibility
 
 </td> <td width="33%" align="center">
 
-## 🧠 ** Continuous Learning**
+### 🧠 ** Continuous Learning**
 
 Exploring advanced MERN and Next.js ecosystems
 
@@ -125,19 +125,19 @@ Exploring advanced MERN and Next.js ecosystems
 
 <table> <tr> <td width="33%" align="center">
 
-## 💼  **Portfolio Website**
+### 💼  **Portfolio Website**
 
 A responsive MERN portfolio showcasing projects, animations, and contact integration with EmailJS.
 
 </td> <td width="33%" align="center">
  
-## 🧠 ** Quiz Application**
+### 🧠 ** Quiz Application**
 
 A dynamic quiz app built with HTML, CSS & JavaScript, featuring API-based questions and score tracking.
 
 </td> <td width="33%" align="center">
 
-## 🌦️  **Weather App**
+### 🌦️  **Weather App**
 
 A simple weather forecasting web app using the OpenWeather API with clean UI and responsive layout.
 
@@ -151,9 +151,11 @@ I aim to collaborate on innovative projects, continuously expand my skillset, an
 
 </div>
 
-## 📊 **GitHub Stats & Languages**
+
 
 <div align="center">
+
+## 📊 **GitHub Stats & Languages**
   <img src="https://github-readme-stats.vercel.app/api?username=Hamza-160804&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-160804&theme=dark&hide_border=true" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-160804&theme=dark&layout=pie&hide_border=true" />
@@ -188,5 +190,4 @@ I aim to collaborate on innovative projects, continuously expand my skillset, an
 I believe in writing clean, reusable, and maintainable code that not only works — it feels good to read.
 
 </div>
-<div align="center"> <p>© 2025 Rao Muhammad Hamza — All Rights Reserved 🌙</p> </div> ```
-````
+<div align="center"> <p>© 2025 Rao Muhammad Hamza — All Rights Reserved 🌙</p> </div>
