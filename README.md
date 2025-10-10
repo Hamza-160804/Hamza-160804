@@ -57,18 +57,20 @@ const raoHamza = {
  </div>
 
 ---
- ### 🛠️ ** Tech Stack**
+
 <div align="center">
 
-## 🎨 ** Frontend**
+ ### 🛠️ ** Tech Stack**
+
+#### 🎨 ** Frontend**
 
 <table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br/><sub><b>React</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br/><sub><b>JavaScript</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><br/><sub><b>HTML5</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><br/><sub><b>CSS3</b></sub></td> <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/><br/><sub><b>Tailwind CSS</b></sub></td> </tr> </table>
 
-## 🧩 ** Backend & Database**
+#### 🧩 ** Backend & Database**
 
 <table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br/><sub><b>Node.js</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/><br/><sub><b>Express.js</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br/><sub><b>MongoDB</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/><sub><b>Python</b></sub></td> </tr> </table>
 
-## 🧠 ** Tools & Design**
+#### 🧠 ** Tools & Design**
 
 <table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/><sub><b>Git</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br/><sub><b>GitHub</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><br/><sub><b>Figma</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-plain.svg" width="40" height="40"/><br/><sub><b>Illustrator</b></sub></td> <td align="center" width="120"><img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40" height="40"/><br/><sub><b>Canva</b></sub></td> 
 </tr>
