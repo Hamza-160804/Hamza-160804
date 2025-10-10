@@ -71,53 +71,69 @@ const raoHamza = {
  ---
 
 <div align="center">
+
 ## 🚀 ** What I Do**
+
 <table> <tr> <td width="33%" align="center">
-##⚡** Interactive UI**
+
+## ⚡** Interactive UI**
+
 Crafting responsive, animated interfaces with React & Tailwind CSS
 
 </td> <td width="33%" align="center">
-🔌 Full-Stack Integration
+
+## 🔌 **Full-Stack Integration**
+
 Building RESTful APIs and connecting frontend ↔ backend seamlessly
 
 </td> <td width="33%" align="center">
-🎨 Modern Design
+
+## 🎨 ** Modern Design**
 Translating wireframes into elegant, functional layouts
 
 </td> </tr> <tr> <td width="33%" align="center">
-📱 Responsive Design
+
+## 📱 ** Responsive Design**
 Ensuring smooth experience on all devices
 
 </td> <td width="33%" align="center">
-🧩 Optimization
+
+## 🧩 ** Optimization**
 Improving performance & accessibility
 
 </td> <td width="33%" align="center">
-🧠 Continuous Learning
+
+## 🧠 ** Continuous Learning**
 Exploring advanced MERN and Next.js ecosystems
 
 </td> </tr> </table> </div>
 <div align="center">
-🌟 Featured Projects
+
+## 🌟 ** Featured Projects**
 <table> <tr> <td width="33%" align="center">
-💼 Portfolio Website
+
+## 💼  **Portfolio Website**
 A responsive MERN portfolio showcasing projects, animations, and contact integration with EmailJS.
 
 </td> <td width="33%" align="center">
-🧠 Quiz Application
+ 
+## 🧠 ** Quiz Application**
 A dynamic quiz app built with HTML, CSS & JavaScript, featuring API-based questions and score tracking.
 
 </td> <td width="33%" align="center">
-🌦️ Weather App
+
+## 🌦️  **Weather App**
 A simple weather forecasting web app using the OpenWeather API with clean UI and responsive layout.
 
 </td> </tr> </table> </div>
 <div align="center">
-🎯 Career Goal
+
+## 🎯 ** Career Goal**
 To build a successful career as a Frontend Developer, leveraging my expertise in React.js, JavaScript, and the MERN stack to create visually appealing, responsive, and high-performance web applications.
 I aim to collaborate on innovative projects, continuously expand my skillset, and deliver solutions that enhance user experience and drive business growth.
 
 </div>
+
 ## 📊 **GitHub Stats & Languages**
 
 <div align="center">
@@ -127,7 +143,9 @@ I aim to collaborate on innovative projects, continuously expand my skillset, an
 </div>
 
 <div align="center">
-🌐 Connect with Me
+
+## 🌐 **Connect with Me**
+
 <table> <tr> <td align="center">
 
 
@@ -139,10 +157,12 @@ I aim to collaborate on innovative projects, continuously expand my skillset, an
 </td> <td align="center">
 
 </td> </tr> </table>
-🚀 Let’s build something amazing together! 🚀
+
+## 🚀** Let’s build something amazing together! **🚀
 </div>
 <div align="center">
-💬 Inspiration
+
+## 💬 **Inspiration**
 “Code is like humor. When you have to explain it, it’s bad.”
 — Cory House
 
