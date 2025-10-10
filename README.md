@@ -4,6 +4,7 @@
 <img src="https://i.ibb.co/7jVbFpj/mern-developer-banner.jpg" alt="Rao Muhammad Hamza - MERN Developer Banner" width="100%" />
 
 # 👋 Hi there, I'm Rao Muhammad Hamza
+
 </div>
 
 ---
@@ -27,18 +28,18 @@ Currently exploring **advanced frontend technologies** and **modern UI/UX** appr
 <tr>
 <td width="50%">
 
-- 🎯 Aiming to build impactful digital experiences through responsive, user-friendly interfaces  
-- 💻 Skilled in **React.js, Tailwind CSS, and the MERN stack**  
-- 🌱 Constantly learning and experimenting with new technologies  
-- 🤝 Enjoy collaborating in agile, creative teams  
-- 📚 Passionate about clean code, performance, and accessibility  
+- 🎯 Aiming to build impactful digital experiences through responsive, user-friendly interfaces
+- 💻 Skilled in **React.js, Tailwind CSS, and the MERN stack**
+- 🌱 Constantly learning and experimenting with new technologies
+- 🤝 Enjoy collaborating in agile, creative teams
+- 📚 Passionate about clean code, performance, and accessibility
 
 </td>
 <td width="50%">
 
 <div align="center">
 
-```javascript
+````javascript
 const raoHamza = {
   name: "Rao Muhammad Hamza",
   role: "Full-Stack MERN Developer",
@@ -48,25 +49,31 @@ const raoHamza = {
   learning: ["Advanced React", "Backend APIs"],
   funFact: "Dark theme enthusiast 🌙"
 };
-</div> 
+````
+</div>
 </td>
  </tr>
  </table>
  </div>
- 
-🛠️ Tech Stack
-<div align="center">
 
+---
+ ## 🛠️ ** Tech Stack**
+<div align="center">
 🎨 Frontend
 <table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br/><sub><b>React</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br/><sub><b>JavaScript</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><br/><sub><b>HTML5</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><br/><sub><b>CSS3</b></sub></td> <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/><br/><sub><b>Tailwind CSS</b></sub></td> </tr> </table>
 🧩 Backend & Database
 <table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br/><sub><b>Node.js</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/><br/><sub><b>Express.js</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br/><sub><b>MongoDB</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/><sub><b>Python</b></sub></td> </tr> </table>
 🧠 Tools & Design
-<table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/><sub><b>Git</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br/><sub><b>GitHub</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><br/><sub><b>Figma</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-plain.svg" width="40" height="40"/><br/><sub><b>Illustrator</b></sub></td> <td align="center" width="120"><img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40" height="40"/><br/><sub><b>Canva</b></sub></td> </tr> </table> </div>
+<table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/><sub><b>Git</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br/><sub><b>GitHub</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><br/><sub><b>Figma</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-plain.svg" width="40" height="40"/><br/><sub><b>Illustrator</b></sub></td> <td align="center" width="120"><img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40" height="40"/><br/><sub><b>Canva</b></sub></td> 
+</tr>
+ </table>
+</div>
+ ---
+
 <div align="center">
-🚀 What I Do
+## 🚀 ** What I Do**
 <table> <tr> <td width="33%" align="center">
-⚡ Interactive UI
+##⚡** Interactive UI**
 Crafting responsive, animated interfaces with React & Tailwind CSS
 
 </td> <td width="33%" align="center">
@@ -143,3 +150,4 @@ I believe in writing clean, reusable, and maintainable code that not only works 
 
 </div>
 <div align="center"> <p>© 2025 Rao Muhammad Hamza — All Rights Reserved 🌙</p> </div> ```
+````
