@@ -57,7 +57,6 @@ const raoHamza = {
  </div>
 
 ---
-
 <div align="center">
 
  ## 🛠️  **Tech Stack**
@@ -76,9 +75,10 @@ const raoHamza = {
 </tr>
 </table>
 </div>
- ---
+ 
+ 
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #0d1117, #161b22); color: white; padding: 20px border-radius: 10px;">
 
 ## 🚀 ** What I Do**
 
