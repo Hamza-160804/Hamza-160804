@@ -57,13 +57,19 @@ const raoHamza = {
  </div>
 
 ---
- ## 🛠️ ** Tech Stack**
+ ### 🛠️ ** Tech Stack**
 <div align="center">
-🎨 Frontend
+
+## 🎨 ** Frontend**
+
 <table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br/><sub><b>React</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br/><sub><b>JavaScript</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><br/><sub><b>HTML5</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><br/><sub><b>CSS3</b></sub></td> <td align="center" width="120"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/><br/><sub><b>Tailwind CSS</b></sub></td> </tr> </table>
-🧩 Backend & Database
+
+## 🧩 ** Backend & Database**
+
 <table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br/><sub><b>Node.js</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/><br/><sub><b>Express.js</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br/><sub><b>MongoDB</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/><sub><b>Python</b></sub></td> </tr> </table>
-🧠 Tools & Design
+
+## 🧠 ** Tools & Design**
+
 <table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/><sub><b>Git</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br/><sub><b>GitHub</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><br/><sub><b>Figma</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-plain.svg" width="40" height="40"/><br/><sub><b>Illustrator</b></sub></td> <td align="center" width="120"><img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40" height="40"/><br/><sub><b>Canva</b></sub></td> 
 </tr>
  </table>
@@ -89,46 +95,55 @@ Building RESTful APIs and connecting frontend ↔ backend seamlessly
 </td> <td width="33%" align="center">
 
 ## 🎨 ** Modern Design**
+
 Translating wireframes into elegant, functional layouts
 
 </td> </tr> <tr> <td width="33%" align="center">
 
 ## 📱 ** Responsive Design**
+
 Ensuring smooth experience on all devices
 
 </td> <td width="33%" align="center">
 
 ## 🧩 ** Optimization**
+
 Improving performance & accessibility
 
 </td> <td width="33%" align="center">
 
 ## 🧠 ** Continuous Learning**
+
 Exploring advanced MERN and Next.js ecosystems
 
 </td> </tr> </table> </div>
 <div align="center">
 
 ## 🌟 ** Featured Projects**
+
 <table> <tr> <td width="33%" align="center">
 
 ## 💼  **Portfolio Website**
+
 A responsive MERN portfolio showcasing projects, animations, and contact integration with EmailJS.
 
 </td> <td width="33%" align="center">
  
 ## 🧠 ** Quiz Application**
+
 A dynamic quiz app built with HTML, CSS & JavaScript, featuring API-based questions and score tracking.
 
 </td> <td width="33%" align="center">
 
 ## 🌦️  **Weather App**
+
 A simple weather forecasting web app using the OpenWeather API with clean UI and responsive layout.
 
 </td> </tr> </table> </div>
 <div align="center">
 
 ## 🎯 ** Career Goal**
+
 To build a successful career as a Frontend Developer, leveraging my expertise in React.js, JavaScript, and the MERN stack to create visually appealing, responsive, and high-performance web applications.
 I aim to collaborate on innovative projects, continuously expand my skillset, and deliver solutions that enhance user experience and drive business growth.
 
@@ -159,10 +174,12 @@ I aim to collaborate on innovative projects, continuously expand my skillset, an
 </td> </tr> </table>
 
 ## 🚀** Let’s build something amazing together! **🚀
+
 </div>
 <div align="center">
 
 ## 💬 **Inspiration**
+
 “Code is like humor. When you have to explain it, it’s bad.”
 — Cory House
 
