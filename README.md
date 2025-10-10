@@ -39,7 +39,7 @@ Currently exploring **advanced frontend technologies** and **modern UI/UX** appr
 
 <div align="center">
 
-````javascript
+```javascript
 const raoHamza = {
   name: "Rao Muhammad Hamza",
   role: "Full-Stack MERN Developer",
@@ -47,9 +47,10 @@ const raoHamza = {
   skills: ["React", "Node.js", "MongoDB", "Tailwind CSS", "JavaScript"],
   passion: "Building engaging and efficient web experiences",
   learning: ["Advanced React", "Backend APIs"],
-  funFact: "Dark theme enthusiast 🌙"
+  funFact: "Dark theme enthusiast 🌙",
 };
-````
+```
+
 </div>
 </td>
  </tr>
@@ -60,7 +61,7 @@ const raoHamza = {
 
 <div align="center">
 
- ## 🛠️  **Tech Stack**
+## 🛠️ **Tech Stack**
 
 ### 🎨 ** Frontend**
 
@@ -72,7 +73,7 @@ const raoHamza = {
 
 ### 🧠 ** Tools & Design**
 
-<table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/><sub><b>Git</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br/><sub><b>GitHub</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><br/><sub><b>Figma</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-plain.svg" width="40" height="40"/><br/><sub><b>Illustrator</b></sub></td> <td align="center" width="120"><img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40" height="40"/><br/><sub><b>Canva</b></sub></td> 
+<table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/><sub><b>Git</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br/><sub><b>GitHub</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><br/><sub><b>Figma</b></sub></td> 
 </tr>
 </table>
 </div>
@@ -129,7 +130,7 @@ Exploring advanced MERN and Next.js ecosystems
 
 <table> <tr> <td width="33%" align="center">
 
-### 💼  **Portfolio Website**
+### 💼 **Portfolio Website**
 
 A responsive MERN portfolio showcasing projects, animations, and contact integration with EmailJS.
 
@@ -141,7 +142,7 @@ A dynamic quiz app built with HTML, CSS & JavaScript, featuring API-based questi
 
 </td> <td width="33%" align="center">
 
-### 🌦️  **Weather App**
+### 🌦️ **Weather App**
 
 A simple weather forecasting web app using the OpenWeather API with clean UI and responsive layout.
 
@@ -163,16 +164,18 @@ I aim to collaborate on innovative projects, continuously expand my skillset, an
 <div align="center">
 
 ## 📊 **GitHub Stats & Languages**
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-160804&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-160804&theme=dark&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-160804&theme=dark&layout=pie&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hamza-160804&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-160804&theme=dark&hide_border=true" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-160804&theme=dark&layout=pie&hide_border=true" />
+
 </div>
 
 ---
 
 <div align="center">
 
- ## 🐍 **GitHub Activity Snake** 
+## 🐍 **GitHub Activity Snake**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamza-160804/Hamza-160804/output/github-contribution-grid-snake-dark.svg">
@@ -181,7 +184,7 @@ I aim to collaborate on innovative projects, continuously expand my skillset, an
 </picture>
 </div>
 
- ---
+---
 
 <div align="center">
 
@@ -229,4 +232,3 @@ I believe in writing clean, reusable, and maintainable code that not only works 
 <div align="center">
 <p>© 2025 Rao Muhammad Hamza — All Rights Reserved 🌙</p>
 </div>
-
