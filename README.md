@@ -3,8 +3,6 @@
 <!-- 🌟 Top Banner / Header Image -->
 <img src="./Make your README.svg" alt="Rao Muhammad Hamza - MERN Developer Banner" width="100%" />
 
-# 👋 Hi there, I'm Rao Muhammad Hamza
-
 </div>
 
 ---
