@@ -60,7 +60,7 @@ const raoHamza = {
 
 <div align="center">
 
- ## 🛠️ ** Tech Stack**
+ ## 🛠️  **Tech Stack**
 
 ### 🎨 ** Frontend**
 
@@ -74,7 +74,7 @@ const raoHamza = {
 
 <table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/><sub><b>Git</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><br/><sub><b>GitHub</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><br/><sub><b>Figma</b></sub></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobeillustrator/adobeillustrator-plain.svg" width="40" height="40"/><br/><sub><b>Illustrator</b></sub></td> <td align="center" width="120"><img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" width="40" height="40"/><br/><sub><b>Canva</b></sub></td> 
 </tr>
- </table>
+</table>
 </div>
  ---
 
@@ -165,21 +165,30 @@ I aim to collaborate on innovative projects, continuously expand my skillset, an
 
 ## 🌐 **Connect with Me**
 
-<table> <tr> <td align="center">
+<table>
+<tr>
+<td align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rao-hamza-920a04246)
 
-</td> <td align="center">
+</td>
+<td align="center">
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raohamza1608@gmail.com)
 
-</td> <td align="center">
+</td>
+<td align="center">
 
-</td> <td align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C4CC?style=for-the-badge&logo=vercel&logoColor=white)](https://modren-react-portfolio.vercel.app/)
 
-</td> </tr> </table>
+</td>
+</tr>
+</table>
 
-## 🚀** Let’s build something amazing together! **🚀
+## 🚀 **Let’s build something amazing together!** 🚀
 
 </div>
+
 <div align="center">
 
 ## 💬 **Inspiration**
