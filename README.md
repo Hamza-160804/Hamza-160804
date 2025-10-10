@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🌟 Top Banner / Header Image -->
-<img src="https://i.ibb.co/7jVbFpj/mern-developer-banner.jpg" alt="Rao Muhammad Hamza - MERN Developer Banner" width="100%" />
+<img src="./Make your README.svg" alt="Rao Muhammad Hamza - MERN Developer Banner" width="100%" />
 
 # 👋 Hi there, I'm Rao Muhammad Hamza
 
