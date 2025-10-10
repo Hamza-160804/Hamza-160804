@@ -57,6 +57,7 @@ const raoHamza = {
  </div>
 
 ---
+
 <div align="center">
 
  ## 🛠️  **Tech Stack**
@@ -76,9 +77,9 @@ const raoHamza = {
 </table>
 </div>
  
- 
+ ---
 
-<div align="center" style="background: linear-gradient(135deg, #0d1117, #161b22); color: white; padding: 20px border-radius: 10px;">
+<div align="center">
 
 ## 🚀 ** What I Do**
 
@@ -119,6 +120,9 @@ Improving performance & accessibility
 Exploring advanced MERN and Next.js ecosystems
 
 </td> </tr> </table> </div>
+
+---
+
 <div align="center">
 
 ## 🌟 ** Featured Projects**
@@ -142,6 +146,9 @@ A dynamic quiz app built with HTML, CSS & JavaScript, featuring API-based questi
 A simple weather forecasting web app using the OpenWeather API with clean UI and responsive layout.
 
 </td> </tr> </table> </div>
+
+---
+
 <div align="center">
 
 ## 🎯 ** Career Goal**
@@ -151,7 +158,7 @@ I aim to collaborate on innovative projects, continuously expand my skillset, an
 
 </div>
 
-
+---
 
 <div align="center">
 
@@ -160,6 +167,8 @@ I aim to collaborate on innovative projects, continuously expand my skillset, an
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-160804&theme=dark&hide_border=true" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-160804&theme=dark&layout=pie&hide_border=true" />
 </div>
+
+---
 
 <div align="center">
 
@@ -188,6 +197,8 @@ I aim to collaborate on innovative projects, continuously expand my skillset, an
 ## 🚀 **Let’s build something amazing together!** 🚀
 
 </div>
+
+---
 
 <div align="center">
 
