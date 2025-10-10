@@ -170,22 +170,6 @@ I aim to collaborate on innovative projects, continuously expand my skillset, an
 
 ---
 
-
-
-<div align="center">
-
-## 🐍 **GitHub Activity Snake**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamza-160804/Hamza-160804/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamza-160804/Hamza-160804/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hamza-160804/Hamza-160804/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ## 🌐 **Connect with Me**
@@ -226,82 +210,71 @@ I aim to collaborate on innovative projects, continuously expand my skillset, an
 I believe in writing clean, reusable, and maintainable code that not only works — it feels good to read.
 
 </div>
-
 ---
 
 <div align="center">
 
-## 🕹️ **Fun Zone — Dual Gradient Bouncing Balls**
+## 👾 **Pac-Man × GitHub — “Chasing the Code”**
 
-<p>Because coding should bounce with creativity 💡</p>
+<p>Because every developer chases commits like Pac-Man chases dots 🟡🐙</p>
 
-<!-- Dual Gradient Bouncing Balls Animation -->
-<div style="position: relative; width: 200px; height: 150px; margin: 30px auto;">
-  <svg width="200" height="150" viewBox="0 0 200 150">
+<!-- Pac-Man eats GitHub logos -->
+<div style="position: relative; width: 320px; height: 120px; margin: 30px auto;">
+  <svg viewBox="0 0 320 120" width="320" height="120">
+    <!-- PAC-MAN -->
+    <g>
+      <circle cx="40" cy="60" r="20" fill="#FFD700">
+        <animate attributeName="d" dur="0.4s" repeatCount="indefinite" />
+      </circle>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;260 0" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="clip-path" dur="0.4s" repeatCount="indefinite"
+        values="polygon(0% 0%,100% 50%,0% 100%,0% 0%);
+                polygon(0% 25%,100% 50%,0% 75%,0% 25%);
+                polygon(0% 0%,100% 50%,0% 100%,0% 0%);" />
+    </g>
+
+    <!-- PAC-MAN mouth (animated using clip-path) -->
     <defs>
-      <!-- Gradient 1 -->
-      <radialGradient id="gradBall1" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="#00FFCC">
-          <animate attributeName="stop-color" values="#00FFCC; #6A5ACD; #00FFCC" dur="3s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="100%" stop-color="#8A2BE2">
-          <animate attributeName="stop-color" values="#8A2BE2; #00FF7F; #8A2BE2" dur="3s" repeatCount="indefinite"/>
-        </stop>
-      </radialGradient>
-
-      <!-- Gradient 2 -->
-      <radialGradient id="gradBall2" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="#FF8C00">
-          <animate attributeName="stop-color" values="#FF8C00; #FF1493; #FF8C00" dur="3s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="100%" stop-color="#FF4500">
-          <animate attributeName="stop-color" values="#FF4500; #FFD700; #FF4500" dur="3s" repeatCount="indefinite"/>
-        </stop>
-      </radialGradient>
+      <clipPath id="mouth">
+        <polygon id="mouthPoly"
+          points="0,0 100,50 0,100"
+        >
+          <animate attributeName="points"
+            dur="0.4s" repeatCount="indefinite"
+            values="0,0 100,50 0,100;0,25 100,50 0,75;0,0 100,50 0,100" />
+        </polygon>
+      </clipPath>
     </defs>
 
-    <!-- Left Ball -->
-    <circle cx="60" cy="20" r="15" fill="url(#gradBall1)">
-      <animate 
-        attributeName="cy" 
-        values="20;130;20" 
-        dur="1.6s" 
-        repeatCount="indefinite" 
-        keyTimes="0;0.5;1" 
-        keySplines=".5 0 .5 1; .5 0 .5 1" 
-        calcMode="spline" />
-      <animateTransform 
-        attributeName="transform" 
-        type="scale" 
-        values="1,1;1,0.8;1,1" 
-        dur="1.6s" 
-        repeatCount="indefinite"
-        additive="sum" />
+    <circle cx="40" cy="60" r="20" fill="#FFD700" clip-path="url(#mouth)">
+      <animateTransform attributeName="transform" type="translate"
+        from="0,0" to="260,0" dur="4s" repeatCount="indefinite" />
     </circle>
 
-    <!-- Right Ball -->
-    <circle cx="140" cy="20" r="15" fill="url(#gradBall2)">
-      <animate 
-        attributeName="cy" 
-        values="130;20;130" 
-        dur="1.6s" 
-        repeatCount="indefinite" 
-        keyTimes="0;0.5;1" 
-        keySplines=".5 0 .5 1; .5 0 .5 1" 
-        calcMode="spline" />
-      <animateTransform 
-        attributeName="transform" 
-        type="scale" 
-        values="1,1;1,0.8;1,1" 
-        dur="1.6s" 
-        repeatCount="indefinite"
-        additive="sum" />
-    </circle>
-
-    <!-- Ground Line -->
-    <rect y="145" width="200" height="5" fill="#00FF88">
-      <animate attributeName="fill" values="#00FF88; #6A5ACD; #00FF88" dur="3s" repeatCount="indefinite"/>
-    </rect>
+    <!-- GITHUB LOGOS (as pellets) -->
+    <g fill="#FFFFFF">
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+             x="90" y="43" width="35" height="35">
+        <animateTransform attributeName="transform" type="translate"
+          from="0,0" to="-260,0" dur="4s" repeatCount="indefinite" />
+      </image>
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+             x="150" y="43" width="35" height="35">
+        <animateTransform attributeName="transform" type="translate"
+          from="0,0" to="-260,0" dur="4s" repeatCount="indefinite" />
+      </image>
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+             x="210" y="43" width="35" height="35">
+        <animateTransform attributeName="transform" type="translate"
+          from="0,0" to="-260,0" dur="4s" repeatCount="indefinite" />
+      </image>
+      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+             x="270" y="43" width="35" height="35">
+        <animateTransform attributeName="transform" type="translate"
+          from="0,0" to="-260,0" dur="4s" repeatCount="indefinite" />
+      </image>
+    </g>
   </svg>
 </div>
 
@@ -312,3 +285,4 @@ I believe in writing clean, reusable, and maintainable code that not only works 
 <div align="center">
 <p>© 2025 Rao Muhammad Hamza — All Rights Reserved 🌙</p>
 </div>
+
