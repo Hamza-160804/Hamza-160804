@@ -170,6 +170,10 @@ I aim to collaborate on innovative projects, continuously expand my skillset, an
 
 ---
 
+<div align="center"> ## 🐍 **GitHub Activity Snake** <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamza-160804/Hamza-160804/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamza-160804/Hamza-160804/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hamza-160804/Hamza-160804/output/github-contribution-grid-snake.svg"> </picture> </div>
+
+ ---
+
 <div align="center">
 
 ## 🌐 **Connect with Me**
@@ -208,75 +212,6 @@ I aim to collaborate on innovative projects, continuously expand my skillset, an
 — Cory House
 
 I believe in writing clean, reusable, and maintainable code that not only works — it feels good to read.
-
-</div>
----
-
-<div align="center">
-
-## 👾 **Pac-Man × GitHub — “Chasing the Code”**
-
-<p>Because every developer chases commits like Pac-Man chases dots 🟡🐙</p>
-
-<!-- Pac-Man eats GitHub logos -->
-<div style="position: relative; width: 320px; height: 120px; margin: 30px auto;">
-  <svg viewBox="0 0 320 120" width="320" height="120">
-    <!-- PAC-MAN -->
-    <g>
-      <circle cx="40" cy="60" r="20" fill="#FFD700">
-        <animate attributeName="d" dur="0.4s" repeatCount="indefinite" />
-      </circle>
-      <animateTransform attributeName="transform" type="translate"
-        values="0 0;260 0" dur="4s" repeatCount="indefinite" />
-      <animate attributeName="clip-path" dur="0.4s" repeatCount="indefinite"
-        values="polygon(0% 0%,100% 50%,0% 100%,0% 0%);
-                polygon(0% 25%,100% 50%,0% 75%,0% 25%);
-                polygon(0% 0%,100% 50%,0% 100%,0% 0%);" />
-    </g>
-
-    <!-- PAC-MAN mouth (animated using clip-path) -->
-    <defs>
-      <clipPath id="mouth">
-        <polygon id="mouthPoly"
-          points="0,0 100,50 0,100"
-        >
-          <animate attributeName="points"
-            dur="0.4s" repeatCount="indefinite"
-            values="0,0 100,50 0,100;0,25 100,50 0,75;0,0 100,50 0,100" />
-        </polygon>
-      </clipPath>
-    </defs>
-
-    <circle cx="40" cy="60" r="20" fill="#FFD700" clip-path="url(#mouth)">
-      <animateTransform attributeName="transform" type="translate"
-        from="0,0" to="260,0" dur="4s" repeatCount="indefinite" />
-    </circle>
-
-    <!-- GITHUB LOGOS (as pellets) -->
-    <g fill="#FFFFFF">
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-             x="90" y="43" width="35" height="35">
-        <animateTransform attributeName="transform" type="translate"
-          from="0,0" to="-260,0" dur="4s" repeatCount="indefinite" />
-      </image>
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-             x="150" y="43" width="35" height="35">
-        <animateTransform attributeName="transform" type="translate"
-          from="0,0" to="-260,0" dur="4s" repeatCount="indefinite" />
-      </image>
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-             x="210" y="43" width="35" height="35">
-        <animateTransform attributeName="transform" type="translate"
-          from="0,0" to="-260,0" dur="4s" repeatCount="indefinite" />
-      </image>
-      <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-             x="270" y="43" width="35" height="35">
-        <animateTransform attributeName="transform" type="translate"
-          from="0,0" to="-260,0" dur="4s" repeatCount="indefinite" />
-      </image>
-    </g>
-  </svg>
-</div>
 
 </div>
 
