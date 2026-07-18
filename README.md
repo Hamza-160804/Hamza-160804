@@ -228,5 +228,5 @@ I believe in writing clean, reusable, and maintainable code that not only works 
 ---
 
 <div align="center">
-<p>© 2025 Rao Muhammad Hamza — All Rights Reserved 🌙</p>
+<p>© 2026 Rao Muhammad Hamza — All Rights Reserved 🌙</p>
 </div>
